@@ -1,3 +1,16 @@
+## HTML/CSS/Git Intro - Iron News - Day 3 homework
+
+### What I did
+
+This assignment is another PSD to HTML practice. 
+
+I was given a png image, depicting a "screenshot" of a site similar in structure to Hacker News. I then created both the HTML and the CSS, using Chrome's developer tools to aid in creating a pixel perfect conversion.
+
+The original assignment is below.
+
+
+
+
 ## HTML/CSS/Git Intro - Iron News
 
 ### Description
